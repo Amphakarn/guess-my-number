@@ -8,12 +8,12 @@ Each round, the game generates a secret random number between 1 and 20. A player
 
 #### Main page
 
-!["Start_the-Game"]()
+!["Start_the-Game"](https://github.com/Amphakarn/guess-my-number/blob/master/docs/Start_the-Game.png?raw=true)
 
 #### Displayed message when guessing number is too high
 
-!["Guess-Number-Too-High"]()
+!["Guess-Number-Too-High"](https://github.com/Amphakarn/guess-my-number/blob/master/docs/Guess-Number-Too-High.png?raw=true)
 
 #### Player wins
 
-!["Player_Wins"]()
+!["Player_Wins"](https://github.com/Amphakarn/guess-my-number/blob/master/docs/Player_Wins.png?raw=true)
