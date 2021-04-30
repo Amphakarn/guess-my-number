@@ -22,7 +22,7 @@ const setBackgroundColor = color => {
 
 const playGame = () => {
   let secretNumber = generateSecretNumber();
-  let score = 5;
+  let score = 20;
   let highScore = 0;
 
   setScore(score);
@@ -69,7 +69,7 @@ const playGame = () => {
   // Play again
   document.querySelector('.again').addEventListener('click', function () {
     secretNumber = generateSecretNumber();
-    score = 5;
+    score = 20;
     setScore(score);
     setBackgroundColor('#222');
     setSecretNumber('?');
